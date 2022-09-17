@@ -1,6 +1,6 @@
 # Notes app solution
 
-This is a fllow along project from [Dennis Ivy YouTube channel](https://www.youtube.com/watch?v=tYKRAXIio28&t=11300s&ab_channel=DennisIvy).
+This is a follow along project from [Dennis Ivy YouTube channel](https://www.youtube.com/watch?v=tYKRAXIio28&t=11300s&ab_channel=DennisIvy).
 
 ## Table of contents
 
